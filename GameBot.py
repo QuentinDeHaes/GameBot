@@ -17,7 +17,7 @@ from BotDatabase import PlayTTS
 from BotDatabase import ChangeName
 from BotDatabase import addToAll
 BotID = '<@538788024541118494>' #the ID of the bot
-TOKEN = 'NTM4Nzg4MDI0NTQxMTE4NDk0.Dy4_VA.oZbJa0Ia2z1FOeVhhQlA8P4FSRE'
+TOKEN = ''
 
 BOTNAME = "GameBot"
 def getAllgamesList(list):
